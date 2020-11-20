@@ -1,0 +1,24 @@
+/* Styles go here */
+/* @import url('https://fonts.googleapis.com/css2?family=Goblin+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Sonsie+One&display=swap');
+
+
+body {
+
+}
+.name{
+    /* font-family: 'Goblin One', cursive;    
+    font-family: 'Inknut Antiqua', serif;     */
+    font-family: 'Sonsie One', cursive;
+}
+ul.footer_social li a{
+    font-size: 36px;
+    color: green;
+    /* color: darkgrey; */
+
+}
+ul.footer_social li a:hover{
+    /* color: green; */
+    color: darkgrey;
+}
